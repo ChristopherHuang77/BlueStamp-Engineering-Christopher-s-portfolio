@@ -5,7 +5,7 @@ My project combines the classic Conway's Game of Life with a Crossy Road-like ga
 
 ![Headstone Image](unnamed.png)
 
-
+...
 
   # First Milestone
 
