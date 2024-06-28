@@ -6,12 +6,12 @@ My project combines the classic Conway's Game of Life with a Crossy Road-like ga
 ![Headstone Image](unnamed.png)
 
 
-  
-# Final Milestone
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rinA1b9ITs4?si=fovmNqZjJNmS4dyF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  # First Milestone
 
-I modified it to create a Crossy Road-like game. In my game, you are the red character who moves by tilting the screen. You must avoid white cells, reach the green cells, and score points. Each time you hit green, your score goes up, but hitting white decreases your lives. The game ends when you run out of lives. To create this, I leveraged the built-in accelerometer. During BlueStamp, I learned Arduino coding, video creation, and presentation skills. Some of my favorite experiences were seeing my code work and playing games during breaks. Now, I feel confident in working on similar projects.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z4JYAGbOjJ8?si=VfJcBRMNVPYO6hDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+My project is made up of a LED display and a Adafruit Matrix Portal M4. During this first mile stone I have learned how to display different text on the LED display, how to change the position and color of the text, and how to move around shapes and pixels. Orginaly, when I first put in the code there was an error that I could not fix,  I asked my instructor and he helped me find a missing lybrary,  Adafruit GFX lybrary,  that was needed in the Adafuit Protomatter.  Another problem I ran into was my name was to long to fit on onw line on the display. I tried shrinking the text size, but it was the smallest size already, so instead I removed some spacing inbetween the letters. I also ran into a problem where the Adafruit Matrix Portal would not connect to the Aduino IDE, I fix it by double tapping the reset button and it connected. My plan to compleate the project is to look over the CircuitPython code for Conways Game of Life,  and rewrite it in aduino. 
 
 
 
@@ -23,11 +23,11 @@ During this milestone I have managed to to display Conway's Game of Life on the 
 
 
 
-# First Milestone
+# Final Milestone
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z4JYAGbOjJ8?si=VfJcBRMNVPYO6hDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rinA1b9ITs4?si=fovmNqZjJNmS4dyF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-My project is made up of a LED display and a Adafruit Matrix Portal M4. During this first mile stone I have learned how to display different text on the LED display, how to change the position and color of the text, and how to move around shapes and pixels. Orginaly, when I first put in the code there was an error that I could not fix,  I asked my instructor and he helped me find a missing lybrary,  Adafruit GFX lybrary,  that was needed in the Adafuit Protomatter.  Another problem I ran into was my name was to long to fit on onw line on the display. I tried shrinking the text size, but it was the smallest size already, so instead I removed some spacing inbetween the letters. I also ran into a problem where the Adafruit Matrix Portal would not connect to the Aduino IDE, I fix it by double tapping the reset button and it connected. My plan to compleate the project is to look over the CircuitPython code for Conways Game of Life,  and rewrite it in aduino. 
+I modified it to create a Crossy Road-like game. In my game, you are the red character who moves by tilting the screen. You must avoid white cells, reach the green cells, and score points. Each time you hit green, your score goes up, but hitting white decreases your lives. The game ends when you run out of lives. To create this, I leveraged the built-in accelerometer. During BlueStamp, I learned Arduino coding, video creation, and presentation skills. Some of my favorite experiences were seeing my code work and playing games during breaks. Now, I feel confident in working on similar projects.
 
 
 
