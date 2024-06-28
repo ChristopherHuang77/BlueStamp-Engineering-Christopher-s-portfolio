@@ -1,4 +1,4 @@
-#Crossy Road Like Game Interwinded with Conways Game of Life
+  # Crossy Road Like Game Interwinded with Conways Game of Life
 My project combines the classic Conway's Game of Life with a Crossy Road-like game,  displayed on an LED matrix. One of my biggest challenges were when the code for Conways Game of Life wasn't working, but I overcame it by changing the way I approched the problem. Every time afther finnishing my code I felt neversous of it not working, lukly most times it worked. 
 
 | Christopher Huang | Morrison Acdemy  | Computer Science | Incoming Sophomore
