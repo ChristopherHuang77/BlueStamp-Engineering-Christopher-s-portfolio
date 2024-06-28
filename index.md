@@ -342,6 +342,6 @@ void lost() {
 
 # Other Resources/Examples
 - [Example 1](https://learn.adafruit.com/rgb-led-matrices-matrix-panels-with-circuitpython/example-conways-game-of-life)
-- [Example 2][https://learn.adafruit.com/adafruit-matrixportal-m4/overview]
+- [Example 2](https://learn.adafruit.com/adafruit-matrixportal-m4/overview)
 
 To watch the BSE tutorial on how to create a portfolio, click here.
