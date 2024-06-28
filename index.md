@@ -17,39 +17,26 @@ You should comment out all portions of your portfolio that you have not complete
   
 # Final Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rinA1b9ITs4?si=fovmNqZjJNmS4dyF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
+I modified it to create a Crossy Road-like game. In my game, you are the red character who moves by tilting the screen. You must avoid white cells, reach the green cells, and score points. Each time you hit green, your score goes up, but hitting white decreases your lives. The game ends when you run out of lives. To create this, I leveraged the built-in accelerometer. During BlueStamp, I learned Arduino coding, video creation, and presentation skills. Some of my favorite experiences were seeing my code work and playing games during breaks. Now, I feel confident in working on similar projects.
 
 
 
 # Second Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7D08KzsVk9U?si=BM9KM_xidD9Fierq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+During this milestone I have managed to to display Conway's Game of Life on the LED display. At first, it was hard to get started on my Conway's Game of Life project for the LED display. My instructor helped by providing a structured framework that I just needed to fill in with the rule set. However, my code initially didn't work as intended. To address this, I tried a different approach suggested by my instructor and wrote the code differently. Conway's Game of Life is a zero-player game where each cell is either alive (light on) or dead (light off). The state of each cell in the next generation depends on its eight neighboring cells: a dead cell becomes alive with exactly three live neighbors, a live cell survives with two or three live neighbors, and a live cell dies of underpopulation with fewer than two or overpopulation with more than three live neighbors. I also implemented a colored variant that I thought was cool. To finnish this project I want to come up with a different game and project it onto the display.
 
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
+
 
 # First Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-For your first milestone, describe what your project is and how you plan to build it. You can include:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z4JYAGbOjJ8?si=VfJcBRMNVPYO6hDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 My project is made up of a LED display and a Adafruit Matrix Portal M4. During this first mile stone I have learned how to display different text on the LED display, how to change the position and color of the text, and how to move around shapes and pixels. Orginaly, when I first put in the code there was an error that I could not fix,  I asked my instructor and he helped me find a missing lybrary,  Adafruit GFX lybrary,  that was needed in the Adafuit Protomatter.  Another problem I ran into was my name was to long to fit on onw line on the display. I tried shrinking the text size, but it was the smallest size already, so instead I removed some spacing inbetween the letters. I also ran into a problem where the Adafruit Matrix Portal would not connect to the Aduino IDE, I fix it by double tapping the reset button and it connected. My plan to compleate the project is to look over the CircuitPython code for Conways Game of Life,  and rewrite it in aduino. 
+
 
 
 # Schematics 
