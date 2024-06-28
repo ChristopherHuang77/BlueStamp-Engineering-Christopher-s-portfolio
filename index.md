@@ -1,19 +1,13 @@
 # Project Name Here
 Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
 
-You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
-```HTML 
-<!--- This is an HTML comment in Markdown -->
-<!--- Anything between these symbols will not render on the published site -->
-```
-
-| **Engineer** | **School** | **Area of Interest** | **Grade** |
-|:--:|:--:|:--:|:--:|
 | Christopher Huang | Morrison Acdemy  | Computer Science | Incoming Sophomore
 
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
 ![Headstone Image](logo.svg)
+
+
   
 # Final Milestone
 
@@ -39,11 +33,7 @@ My project is made up of a LED display and a Adafruit Matrix Portal M4. During t
 
 
 
-# Schematics 
-Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
-
 # Code
-Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
 
 ```c++
 int score=0;
@@ -339,6 +329,8 @@ void lost() {
 }
 ```
 
+
+
 # Bill of Materials
 
 | Matrix Portal Starter Kit | Constructing LED Display | $69.95 | <a href="https://www.adafruit.com/product/4812"> Link </a> |
@@ -346,10 +338,10 @@ void lost() {
 | Screwdriver Set | Screw in Screws to Construct LED Display  | $7.95 | <a href="https://www.adafruit.com/product/424"> Link </a> |
 | USB C to USB C | Connects Matrix Portal to Computer | $9.95 | <a href="https://www.adafruit.com/product/4199"> Link </a> |
 
+
+
 # Other Resources/Examples
-One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
-- [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
-- [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
-- [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
+- [Example 1](https://learn.adafruit.com/rgb-led-matrices-matrix-panels-with-circuitpython/example-conways-game-of-life)
+- [Example 2]([https://trashytuber.github.io/YimingJiaBlueStamp/](https://learn.adafruit.com/adafruit-matrixportal-m4/overview))
 
 To watch the BSE tutorial on how to create a portfolio, click here.
