@@ -1,11 +1,9 @@
-# Project Name Here
-Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
+#Crossy Road Like Game Interwinded with Conways Game of Life
+My project combines the classic Conway's Game of Life with a Crossy Road-like game,  displayed on an LED matrix. One of my biggest challenges were when the code for Conways Game of Life wasn't working, but I overcame it by changing the way I approched the problem. Every time afther finnishing my code I felt neversous of it not working, lukly most times it worked. 
 
 | Christopher Huang | Morrison Acdemy  | Computer Science | Incoming Sophomore
 
-**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
-
-![Headstone Image](logo.svg)
+![Headstone Image](unnamed.png)
 
 
   
