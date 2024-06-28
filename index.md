@@ -335,11 +335,3 @@ void lost() {
 | Bend Wire Stand | Stand for Finnal Project | $4.95 | <a href="https://www.adafruit.com/product/1679"> Link </a> |
 | Screwdriver Set | Screw in Screws to Construct LED Display  | $7.95 | <a href="https://www.adafruit.com/product/424"> Link </a> |
 | USB C to USB C | Connects Matrix Portal to Computer | $9.95 | <a href="https://www.adafruit.com/product/4199"> Link </a> |
-
-
-
-# Other Resources/Examples
-- [Example 1](https://learn.adafruit.com/rgb-led-matrices-matrix-panels-with-circuitpython/example-conways-game-of-life)
-- [Example 2](https://learn.adafruit.com/adafruit-matrixportal-m4/overview)
-
-To watch the BSE tutorial on how to create a portfolio, click here.
