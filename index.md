@@ -5,9 +5,9 @@ My project combines the classic Conway's Game of Life with a Crossy Road-like ga
 
 ![Headstone Image](unnamed.png)
 
-...
 
-  # First Milestone
+
+# First Milestone
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z4JYAGbOjJ8?si=VfJcBRMNVPYO6hDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
